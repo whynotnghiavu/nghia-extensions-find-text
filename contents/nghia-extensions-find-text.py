@@ -4,19 +4,24 @@ import glob
 
 
 def find(directory, keywords, extensions,   output_file=None, ignore_folders=None): 
-
     files = []
     for extension in extensions:
         files +=    glob.glob(os.path.join(directory, f'**/*{extension}'), recursive=True)
     print(files)
 
+
+
+
+
+    
+# 
  
     #         if os.path.basename(item_path) not in ignore_folders:
 
 
 
     with open(output_file, "a", encoding="utf-8") as file:
-        file.write( "nghia" + "\n")
+        file.write( path+ "\n")
 
      
 
