@@ -29,14 +29,16 @@ if __name__ == "__main__":
         # "replace",
         # "MyNewPath",
 
-         "NOTE",
-
+        #  "NOTE",
+ 
+# "os.path.exists",
         #  "print",
+         "MyLog",
 
         # "#",
     ]
     extensions = [".py"]
-    output_file = "output.txt"
+    output_file = "output.md"
     ignore_folders = [
         ".git",
         "node_modules",
