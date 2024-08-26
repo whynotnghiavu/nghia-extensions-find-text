@@ -1,18 +1,13 @@
 PATH: C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN
-Keywords: ['replace']
+Keywords: ['NOTE']
 
 
 C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\main.py
-C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\modules\ChuyenAmThanh.py
-C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\modules\DoiTenFileSub.py
+C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\modules\DichTiengViet.py
 C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\modules\DonDep.py
 C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\modules\FormatFileSub.py
-C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\modules\GhepAmThanh.py
-C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\modules\HopAmThanh.py
 C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\modules\HopNhatCauSub.py
-C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\modules\MyTextToSpeech.py
-C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\modules\TachFileSub.py
 C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\modules\ThayTheVanBan.py
-C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\modules\ThemAmThanh.py
-C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\modules\XuLyFileKetQuaDich.py
-C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\documents\others\elif.py
+C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\modules\XoaFileKhongDung.py
+C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\view\app.py
+C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN\contents\code\view\ButtonClick.py

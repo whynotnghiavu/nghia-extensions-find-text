@@ -25,10 +25,15 @@ if __name__ == "__main__":
     #! INPUT
     folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN"
     keywords = [
-        # "#",
-        #  "NOTE",
+        
+        # "replace",
+        # "MyNewPath",
+
+         "NOTE",
+
         #  "print",
-        "replace",
+
+        # "#",
     ]
     extensions = [".py"]
     output_file = "output.txt"
