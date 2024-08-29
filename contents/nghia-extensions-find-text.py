@@ -24,20 +24,37 @@ def find(directory, keywords, extensions, output_file=None, ignore_folders=None)
 if __name__ == "__main__":
     #! INPUT
     folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN"
+    folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git"
     keywords = [
-        
+
         # "replace",
         # "MyNewPath",
 
         #  "NOTE",
- 
-# "os.path.exists",
-        #  "print",
-         "MyLog",
+
+        # "os.path.exists",
+        #  "MyLog",
+
+
+        #  "ChuyenAmThanh",
+
+        #  "🐍",
 
         # "#",
+
+
+        #  "print",
+        "link",
+        # "encoding",
+
+
+
+
     ]
-    extensions = [".py"]
+    extensions = [
+        ".py",
+        ".md",
+                  ]
     output_file = "output.md"
     ignore_folders = [
         ".git",
