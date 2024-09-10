@@ -44,11 +44,14 @@ if __name__ == "__main__":
 
 
         #  "print",
-        "link",
+        # "link",
         # "encoding",
 
 
-
+        # "company20206205",
+        # "websoket", 
+        "FPT",
+# 
 
     ]
     extensions = [
