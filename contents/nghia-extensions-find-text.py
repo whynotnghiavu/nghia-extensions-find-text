@@ -23,9 +23,10 @@ def find(directory, keywords, extensions, output_file=None, ignore_folders=None)
 
 if __name__ == "__main__":
     #! INPUT
-    folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN"
-    folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git"
     folder_path = r"c:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoWatch"
+    folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git"
+    folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN" 
+    folder_path = r"C:\Users\vvn20206205\Downloads\be-pxdr-develop"
 
 
      
@@ -55,7 +56,22 @@ if __name__ == "__main__":
         # "company20206205",
         # "websoket", 
         # "FPT",
-        "return",
+        
+        
+# dependencies=[Security(AuthHandler().get_current_user, scopes=["admin"])],
+        # /api/soc/alerts/bookmark
+        # /api/soc/general_alert/create
+        # /api/analyzers
+        # /api/artifacts
+        # /api/artifacts/velociraptor-artifact-recommendation
+        # /api/flows/{hostname}
+        "flows",
+        
+
+        
+        
+        # "\\(",
+        # "return",
         # "int",
         # "with open",
         # "exists",
