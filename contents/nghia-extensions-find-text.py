@@ -27,6 +27,7 @@ if __name__ == "__main__":
     folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git"
     folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\VideoVN" 
     folder_path = r"C:\Users\vvn20206205\Downloads\be-pxdr-develop"
+    folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\FIS-otp-3\contents\code"
 
 
      
@@ -65,7 +66,7 @@ if __name__ == "__main__":
         # /api/artifacts
         # /api/artifacts/velociraptor-artifact-recommendation
         # /api/flows/{hostname}
-        "flows",
+        "pytz",
         
 
         

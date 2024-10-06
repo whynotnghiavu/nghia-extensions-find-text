@@ -35,12 +35,11 @@ if __name__ == "__main__":
     folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\FIS-otp-3\contents\code"
 
     keywords = [
- 
- 
+# "from code.backend.app.auth.auth_handler import AuthHandler"
 "from code.backend.app.auth.utils.auth_handler import AuthHandler"
-
     ]
     replacements = [
+# "from app.auth.auth_handler import AuthHandler"
 "from app.auth.utils.auth_handler import AuthHandler"
     ]
     
